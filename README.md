@@ -1,6 +1,7 @@
-<!-- Hi! can you read this? -->
+<!-- Hi! This is an easter egg. -->
 <!-- If you find this I will give you 5€! -->
-# Hi stranger! 👋🏻
+
+# 👀 Hi stranger! 👋🏻 
 
 # 🤔 About me: 
 - 🐈 Cat dad 😻
@@ -8,6 +9,6 @@
 - 👨🏻‍💻 Full-Stack Developer 
 - 😍 Emoji lover
 
-Here is a list of the Open Source projects I work on:
+👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
 
-👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻
+
