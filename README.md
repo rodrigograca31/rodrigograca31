@@ -1,25 +1,28 @@
-<!--
-Hi! This is an easter egg.
-Congratulations you found the first one!
--->
+Dear GitHub
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+I’m applying for the **Software Engineer, Codespaces** position in **Manchester**.
 
-<!-- # 👀 Hi stranger! 👋🏻 -->
+Let me tell you a story: last year I signed up for the Sponsors Program in the hopes that one day I could make a living writing only Open Source Software and make this world a better place. Now, being chosen for this position would allow me to contribute and shape the future of Open Source itself!
 
-# 🤔 About me:
+Why am I a good fit?
 
-- 🐇 Following the white rabbit
-- 🐈 Cat dad 😻
-- Professional 🐛 solver
-- 👨🏻‍💻 Full-Stack Developer
-- 💊 Coding the Matrix
-- 😍 Emoji lover
-- 🚀 One day I will see humans on Mars!
-- 🐇🥚 There's easter eggs in this profile...
+- I’ve been using Cloud IDEs since 2012 (Cloud 9, now owned by Amazon)
+- I love GitHub so much that I’ve signed up for:
+  - Developer Program
+  - Sponsors Program
+  - Every single new feature preview!
+- I’m a contributor and publisher of multiple Open Source projects:
+  - One of them is a Git tool
+  - Another one just made it to the Arctic Code Vault
+- I’m one of the first adopters of the `README.md` profile repo
+- On the waiting list for Codespaces
+- I use GitHub on a daily basis!
 
-<!-- Watch this: https://www.youtube.com/watch?v=eC7xzavzEKY -->
+That said, I’m also a professional Full Stack Web Developer with 8 years of experience, a huge passion for the Web, and a regular open-source contributor to a variety of projects/tools.
 
----
+I have extended experience with web technologies: my career started with PHP and nowadays mostly consists of JavaScript (TypeScript), HTML, and CSS as my 3 main technologies. I also have 2 years of recent remote work experience.
 
-👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
+P.S. Fun fact: I was in Manchester exactly 1 year ago today; a wonderful city!
+
+Sincerely,
+Rodrigo Graça
