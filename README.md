@@ -1,4 +1,4 @@
-Dear GitHub
+<!--Dear GitHub
 
 I’m applying for the **Software Engineer, Codespaces** position in **Manchester**.
 
@@ -26,3 +26,5 @@ P.S. Fun fact: I was in Manchester exactly 1 year ago today; a wonderful city!
 
 Sincerely,
 Rodrigo Graça
+-->
+empty file
