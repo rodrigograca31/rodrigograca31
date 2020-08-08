@@ -24,7 +24,6 @@ Congratulations you found the first one!
 # 📝 Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Why do I listen to these 24 podcasts?](https://blog.rodrigograca.com/why-do-i-listen-to-these-podcasts/)
 - [My current P2P investment portfolio - 23,500€](https://blog.rodrigograca.com/my-p2p-portfolio/)
 - [What do I do to stay secure as a developer? 🤔](https://blog.rodrigograca.com/how-to-stay-secure-as-a-developer/)
