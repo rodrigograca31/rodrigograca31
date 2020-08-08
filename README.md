@@ -20,6 +20,11 @@ Congratulations you found the first one!
 
 <!-- Watch this: https://www.youtube.com/watch?v=eC7xzavzEKY -->
 
+# 📝 Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
