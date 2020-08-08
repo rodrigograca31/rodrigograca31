@@ -16,6 +16,7 @@ Congratulations you found the first one!
 - 💊 Coding the Matrix
 - 😍 Emoji lover
 - 🚀 One day I will see humans on Mars!
+- Im very creative as you can see 🎨👀
 - 🐇🥚 There's easter eggs in this profile...
 
 <!-- Watch this: https://www.youtube.com/watch?v=eC7xzavzEKY -->
