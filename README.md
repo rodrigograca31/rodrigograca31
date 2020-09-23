@@ -24,7 +24,7 @@ Congratulations you found the first one!
 # 📝 Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [8 node packages you should be using on your system!](https://blog.rodrigograca.com/node-packages-you-should-be-using/)
+- [9 node packages you should be using on your system!](https://blog.rodrigograca.com/node-packages-you-should-be-using/)
 - [Linux: How to play videos on your webcam?](https://blog.rodrigograca.com/play-videos-in-webcam/)
 - [📲 How to setup Two Factor Authentication (2FA) in every P2P platform and why you should do it!](https://blog.rodrigograca.com/how-to-setup-two-factor-authentication-on-P2P-accounts-and-why/)
 - [🤑 Items worth buying - List of good investments💰](https://blog.rodrigograca.com/items-worth-buying-list-of-good-investments/)
