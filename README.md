@@ -27,7 +27,7 @@ Congratulations you found the first one!
 - [💪🏻💊 The supplements I take, price, dosage, and why](https://blog.rodrigograca.com/the-supplements-i-take-price-dosage-why/)
 - [The chrome extensions I use as a Full Stack Developer and why](https://blog.rodrigograca.com/the-chrome-extensions-i-use-why/)
 - [9 node packages you should be using on your system!](https://blog.rodrigograca.com/node-packages-you-should-be-using/)
-- [Linux: How to play videos on your webcam?](https://blog.rodrigograca.com/play-videos-in-webcam/)
+- [Linux: How to play videos on your webcam? (virtual camera)](https://blog.rodrigograca.com/play-videos-in-webcam/)
 - [📲 How to setup Two Factor Authentication (2FA) in every P2P platform and why you should do it!](https://blog.rodrigograca.com/how-to-setup-two-factor-authentication-on-P2P-accounts-and-why/)
 <!-- BLOG-POST-LIST:END -->
 
