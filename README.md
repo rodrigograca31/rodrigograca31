@@ -24,11 +24,11 @@ Congratulations you found the first one!
 # 📝 Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [How to stay secure when dealing with money online (investments)](https://blog.rodrigograca.com/how-to-stay-secure-when-dealing-with-money-online/)
 - [What I've learned so far from this pandemic:](https://blog.rodrigograca.com/what-ive-learned-from-this-pandemic/)
 - [💪🏻💊 The supplements I take, price, dosage, and why](https://blog.rodrigograca.com/the-supplements-i-take-price-dosage-why/)
 - [The chrome extensions I use as a Full Stack Developer and why](https://blog.rodrigograca.com/the-chrome-extensions-i-use-why/)
 - [9 node packages you should be using on your system!](https://blog.rodrigograca.com/node-packages-you-should-be-using/)
-- [Linux: How to play videos on your webcam? (virtual camera)](https://blog.rodrigograca.com/play-videos-in-webcam/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
