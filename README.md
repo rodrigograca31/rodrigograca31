@@ -24,11 +24,11 @@ Congratulations you found the first one!
 # 📝 Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [How to install the latest NodeJS on Raspberry PI 0 W?](https://blog.rodrigograca.com/how-to-install-latest-nodejs-on-raspberry-pi-0-w/)
 - [How to write secure front-end code:](https://blog.rodrigograca.com/how-to-write-secure-front-end-code/)
 - [Services/Products I love and can't live without:](https://blog.rodrigograca.com/services/)
 - [Migrating Ionic 3 to 5 and Angular 5 to 10 to solve technical debt](https://blog.rodrigograca.com/ionic-3-to-5-angular-5-to-10-solve-technical-debt/)
 - [How to stay secure when dealing with money online (investments)](https://blog.rodrigograca.com/how-to-stay-secure-when-dealing-with-money-online/)
-- [What I've learned so far from this pandemic:](https://blog.rodrigograca.com/what-ive-learned-from-this-pandemic/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
