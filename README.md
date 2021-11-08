@@ -28,7 +28,7 @@ Congratulations you found the first one!
 - [How to deploy an Ionic 5 app on Netlify?](https://blog.rodrigograca.com/how-to-deploy-an-ionic-5-app-on-netlify/)
 - [How to install the latest NodeJS on Raspberry PI 0 W?](https://blog.rodrigograca.com/how-to-install-latest-nodejs-on-raspberry-pi-0-w/)
 - [How to write secure front-end code:](https://blog.rodrigograca.com/how-to-write-secure-front-end-code/)
-- [Services/Products I love and can't live without:](https://blog.rodrigograca.com/services/)
+- [Services/Products I love and can&#39;t live without:](https://blog.rodrigograca.com/services/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
